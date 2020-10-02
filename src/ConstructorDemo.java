@@ -59,7 +59,6 @@ class Testingconstructor
 //----  no argument constructor / non parameterised constructor
 // parameterised constructor
 
-
 // String Class constructors
 // String str1 = new String();
 // String str1 = new String("abc");
